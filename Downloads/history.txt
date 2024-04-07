@@ -200,5 +200,4 @@
   200  Apr 07 23:05:02 curl http://188.120.225.17:9000/log
   201  Apr 07 23:07:13 curl http://188.120.225.17:9000/sad
   202  Apr 07 23:07:25 cat log
-  203  Apr 07 23:11:34 cd -
-  204  Apr 07 23:12:50 history > HIST
+  203  Apr 07 23:12:50 history > HIST
