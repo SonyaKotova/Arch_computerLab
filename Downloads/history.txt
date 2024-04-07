@@ -1,0 +1,204 @@
+    1  Mar 25 19:25:12 ls
+    2  Mar 25 19:25:14 pwd
+    3  Mar 25 19:25:19 history
+    4  Mar 25 19:25:48 rmdir SONYA
+    5  Mar 25 19:25:54 cd SONYA
+    6  Mar 25 19:25:56 ls
+    7  Mar 25 19:26:01 rm 
+    8  Mar 25 19:26:13 rm run_http_server.zip
+    9  Mar 25 19:26:24 cd NEW_arch
+   10  Mar 25 19:26:26 ls
+   11  Mar 25 19:26:36 rm run_http_server.sh
+   12  Mar 25 19:26:39 cd -
+   13  Mar 25 19:26:48 rmdir NEW_arch
+   14  Mar 25 19:26:51 cd -
+   15  Mar 25 19:27:02 ls
+   16  Mar 25 19:27:12 cd -
+   17  Mar 25 19:27:18 cd SONYA
+   18  Mar 25 19:27:27 cd skotova
+   19  Mar 25 19:27:33 rmdir SONYA
+   20  Mar 25 19:27:37 exit
+   21  Mar 31 14:40:49 history
+   22  Mar 31 14:41:02 pwd
+   23  Mar 31 14:41:04 ls
+   24  Mar 31 14:41:06 ls -a
+   25  Mar 31 14:41:31 cat .ssh
+   26  Mar 31 14:41:42 cd .ssh
+   27  Mar 31 14:41:49 cat .ssh
+   28  Mar 31 14:41:51 ls
+   29  Mar 31 14:42:07 cat authorized_keys
+   30  Mar 31 14:42:20 mkdir SONYA
+   31  Mar 31 14:42:22 ls
+   32  Mar 31 14:42:26 cd SONYA
+   33  Mar 31 14:42:50 exit
+   34  Mar 31 14:46:38 ls
+   35  Mar 31 14:46:41 cd SONYA
+   36  Mar 31 14:46:59 cd-
+   37  Mar 31 14:47:06 cd SONYA
+   38  Mar 31 14:47:25 ls
+   39  Mar 31 14:47:29 pwd
+   40  Mar 31 14:47:35 cd skotova
+   41  Mar 31 14:47:38 cd SONYA
+   42  Mar 31 14:47:46 cat SONYA
+   43  Mar 31 14:48:20 unzip run_http_server.zip
+   44  Mar 31 14:48:29 clear
+   45  Mar 31 14:48:37 exit
+   46  Mar 31 14:49:27 cd SONYA
+   47  Mar 31 14:49:32 ls
+   48  Mar 31 14:49:40 rm SONYA
+   49  Mar 31 14:49:42 ls
+   50  Mar 31 14:49:45 ls -a
+   51  Mar 31 14:50:11 mkdir dir
+   52  Mar 31 14:50:13 ls
+   53  Mar 31 14:50:19 cd dir
+   54  Mar 31 14:51:25 exit
+   55  Mar 31 14:54:12 ls
+   56  Mar 31 14:54:33 exit
+   57  Mar 31 15:28:42 top
+   58  Mar 31 15:29:11 ps
+   59  Mar 31 15:29:36 ps -A
+   60  Mar 31 15:32:30 kill python 2460028
+   61  Mar 31 15:34:02 kill 2460028
+   62  Mar 31 15:34:46 kill 2459784
+   63  Mar 31 15:35:08 ps aux | grep python
+   64  Mar 31 15:35:53 kill 248656
+   65  Mar 31 15:36:04 kill 16748
+   66  Mar 31 15:36:12 kill 352681
+   67  Mar 31 15:36:26 ps aux | grep python
+   68  Mar 31 15:46:43 history
+   69  Mar 31 14:55:00 ls
+   70  Mar 31 14:55:03 cd dir
+   71  Mar 31 14:55:06 ls
+   72  Mar 31 14:55:15 unzip run_http_server.zip
+   73  Mar 31 14:55:21 ls
+   74  Mar 31 14:55:56 cd -
+   75  Mar 31 14:56:06 mkdir arch
+   76  Mar 31 14:56:12 cd dir
+   77  Mar 31 14:57:24 mv run_http_server.sh arch/
+   78  Mar 31 14:57:41 mv run_http_server.sh arch
+   79  Mar 31 14:57:45 ls
+   80  Mar 31 14:58:24 cd -
+   81  Mar 31 14:58:26 ls
+   82  Mar 31 14:58:37 mv run_http_server arch
+   83  Mar 31 14:58:50 mv run_http_server.sh arch
+   84  Mar 31 14:59:04 cd dir
+   85  Mar 31 14:59:10 cd arch
+   86  Mar 31 14:59:17 ls
+   87  Mar 31 14:59:25 rm arch
+   88  Mar 31 14:59:26 ls
+   89  Mar 31 14:59:37 unzip run_http_server.zip
+   90  Mar 31 14:59:42 ls
+   91  Mar 31 15:00:05 mv run_http_server.sh /home/skotova/arch
+   92  Mar 31 15:00:06 ls
+   93  Mar 31 15:00:09 cd -
+   94  Mar 31 15:00:12 ls
+   95  Mar 31 15:00:15 cd arch
+   96  Mar 31 15:00:17 ls
+   97  Mar 31 15:00:37 cat run_http_server.sh
+   98  Mar 31 15:01:33 chmod run_http_server.sh
+   99  Mar 31 15:02:36 chmod --help
+  100  Mar 31 15:03:50 sh run_http_server.sh
+  101  Mar 31 15:41:46 cd -
+  102  Mar 31 15:41:49 ls -a
+  103  Mar 31 21:01:57 history
+  104  Mar 31 21:02:53 exit
+  105  Apr 07 10:23:33 pwd
+  106  Apr 07 10:23:36 ls
+  107  Apr 07 10:23:42 cd arch
+  108  Apr 07 10:23:45 ls
+  109  Apr 07 10:24:13 ./run_http_server.sh &> log
+  110  Apr 07 10:24:24 ls
+  111  Apr 07 10:24:28 cat log
+  112  Apr 07 10:25:29 сrun_http_server.sh &> log
+  113  Apr 07 10:25:34 cat log
+  114  Apr 07 10:25:39 ls
+  115  Apr 07 10:25:49 cd -
+  116  Apr 07 10:25:51 ls
+  117  Apr 07 10:25:56 exit
+  118  Apr 07 11:23:17 pwd
+  119  Apr 07 11:23:25 rmdir dir
+  120  Apr 07 11:23:29 cd dir
+  121  Apr 07 11:23:30 ls
+  122  Apr 07 11:23:44 rm run_http_server.zip
+  123  Apr 07 11:23:47 cd -
+  124  Apr 07 11:23:50 rmdir dir
+  125  Apr 07 11:23:52 ls
+  126  Apr 07 11:23:56 cd arch
+  127  Apr 07 11:23:58 ls
+  128  Apr 07 11:24:10 rm run_http_server.sh
+  129  Apr 07 11:24:17 rm log
+  130  Apr 07 11:24:20 cd -
+  131  Apr 07 11:24:25 rmdir arch
+  132  Apr 07 11:24:28 ls
+  133  Apr 07 11:26:34 pwd
+  134  Apr 07 11:26:41 ls
+  135  Apr 07 11:26:42 ls -a
+  136  Apr 07 11:27:04 cd .ssh
+  137  Apr 07 11:27:06 ls
+  138  Apr 07 11:27:13 cd SONYA
+  139  Apr 07 11:27:15 ls
+  140  Apr 07 11:27:18 cd -
+  141  Apr 07 11:27:22 rmdir SONYA
+  142  Apr 07 11:27:37 cat authorized_keys
+  143  Apr 07 11:27:58 cd -
+  144  Apr 07 11:28:47 cd skotova
+  145  Apr 07 11:28:52 cd -
+  146  Apr 07 11:28:55 ls
+  147  Apr 07 11:28:59 cd +
+  148  Apr 07 11:29:15 exit
+  149  Apr 07 11:47:26 ps -la
+  150  Apr 07 11:49:19 kill 
+  151  Apr 07 11:49:31 kill 4056088
+  152  Apr 07 11:58:09 curl -ls http://188.120.225.17:9000/
+  153  Apr 07 12:01:06 curl -Is http://188.120.225.17:9000/
+  154  Apr 07 12:02:05 curl http://188.120.225.17:9000/log
+  155  Apr 07 12:02:33 curl http://188.120.225.17:9000/omg
+  156  Apr 07 12:11:25 cd arch
+  157  Apr 07 12:11:28 cat log
+  158  Apr 07 12:17:31 exit
+  159  Apr 07 11:29:28 pwd
+  160  Apr 07 11:29:30 ls
+  161  Apr 07 11:29:32 ls -a
+  162  Apr 07 11:29:39 cd .ssh
+  163  Apr 07 11:29:40 ls
+  164  Apr 07 11:29:51 cat authorized_keys
+  165  Apr 07 11:29:53 cd -
+  166  Apr 07 11:30:18 mkdir dir
+  167  Apr 07 11:30:23 cd dir
+  168  Apr 07 11:34:30 cd -
+  169  Apr 07 11:34:32 ls
+  170  Apr 07 11:34:39 cd dir
+  171  Apr 07 11:34:40 ls
+  172  Apr 07 11:37:57 cd -
+  173  Apr 07 11:37:58 ls -a
+  174  Apr 07 11:38:04 cd dir
+  175  Apr 07 11:38:09 ls -a
+  176  Apr 07 11:38:11 ls
+  177  Apr 07 11:41:19 cd -
+  178  Apr 07 11:41:23 mkdir arch
+  179  Apr 07 11:41:28 cd dir
+  180  Apr 07 11:41:37 cd -
+  181  Apr 07 11:42:11 unzip run_http_server.zip -d /home/skotova/arch
+  182  Apr 07 11:42:21 cd dir
+  183  Apr 07 11:42:32 unzip run_http_server.zip -d /home/skotova/arch
+  184  Apr 07 11:42:39 cd -
+  185  Apr 07 11:42:42 cd arch
+  186  Apr 07 11:42:44 ls
+  187  Apr 07 11:42:59 cat run_http_server.sh
+  188  Apr 07 11:45:00 sh run_http_server.sh
+  189  Apr 07 11:51:06 ./run_http_server.sh &> log
+  190  Apr 07 11:51:10 ls
+  191  Apr 07 11:51:34 cat log
+  192  Apr 07 11:51:45 rm log
+  193  Apr 07 11:52:12 chmod +x ./run_http_server.sh
+  194  Apr 07 11:52:35 ./run_http_server.sh &> log
+  195  Apr 07 12:17:41 exit
+  196  Apr 07 22:54:56 cd arch
+  197  Apr 07 22:54:58 ls
+  198  Apr 07 22:55:16 ./run_http_server.sh &
+  199  Apr 07 23:04:15 curl -Is http://188.120.225.17:9000/
+  200  Apr 07 23:05:02 curl http://188.120.225.17:9000/log
+  201  Apr 07 23:07:13 curl http://188.120.225.17:9000/sad
+  202  Apr 07 23:07:25 cat log
+  203  Apr 07 23:11:34 cd -
+  204  Apr 07 23:12:50 history > HIST
